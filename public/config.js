@@ -36,7 +36,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,es,pt,de",
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#00c74c\",\"downColor\":\"#ff1f31\",\"pnlUpColor\":\"#00c74c\",\"pnlDownColor\":\"#ff1f31\",\"chartBG\":\"#1c092f\"}",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "United States,Iran,North Korea,Cuba,Venezuela,Russia,Belarus",
