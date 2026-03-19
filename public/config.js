@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "A fast orderbook DEX for Pro-Traders",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Swap,Markets,Portfolio,Vaults,Leaderboard,Rewards,Points",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Vaults,Swap,Rewards,Points",
   "VITE_CUSTOM_MENUS": "Home, https://www.paridex.xyz",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
