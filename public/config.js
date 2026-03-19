@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "",
   "VITE_SEO_SITE_NAME": "ParliDEX",
   "VITE_SEO_SITE_DESCRIPTION": "A fast orderbook DEX for Pro-Traders",
-  "VITE_SEO_SITE_URL": "https://parlidex.xyz",
+  "VITE_SEO_SITE_URL": "https://trade.parlidex.xyz",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
